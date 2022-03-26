@@ -22,4 +22,4 @@ SO THAT my account balance is accurate when I am traveling
 https://pwa-budget-1922-app.herokuapp.com/
 
 ## Screenshot
-<img alt= "budget tracker" src="" >
+<img alt= "budget tracker" src="https://github.com/raniahj/Module-19-PWA/blob/main/Budget%20Tracker.png" >
